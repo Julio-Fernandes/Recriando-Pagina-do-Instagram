@@ -1,3 +1,2 @@
 # Recriando-Pagina-do-Instagram
-Projeto para recriar página inicial do Instagram
-
+Projeto que Recria Pagina do Instagrm
